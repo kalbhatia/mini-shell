@@ -1,0 +1,1711 @@
+<zuiprezi>
+  <version>8</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-107564.87178891577" y="-60465.46047305916" width="215129.74357783154" height="120930.92094611832"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="15_24309637" type="button" x="-5.846781346819966e-12" y="-2.923390673409983e-12" r="0" s="219.4753556190895" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>980.9651103592888</w>
+        <h>551.7928745771</h>
+      </size>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="72_24309637" type="shape" x="26602.898331680117" y="-36929.43606783511" r="180" s="141.19801984630024" class="line3">
+      <geom type="line">
+        <sp>-164.46832673694863 0</sp>
+        <ep>164.4683267369486 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="73_24309637" type="shape" x="3383.266525383875" y="-26500.951744939703" r="90.01030802143627" s="141.19801984630024" class="line3">
+      <geom type="line">
+        <sp>-73.85293850474862 0</sp>
+        <ep>73.85293850474864 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="74_24309637" type="shape" x="35039.5111556291" y="-16072.615975515606" r="179.99421771224232" s="141.19801984630044" class="line3">
+      <geom type="line">
+        <sp>-224.21587461844092 0</sp>
+        <ep>224.21587461844092 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="75_24309637" type="shape" x="66698.34850863901" y="-6840.584771030289" r="90.00000000000001" s="141.19801984630033" class="line3">
+      <geom type="line">
+        <sp>-65.40620203553796 0</sp>
+        <ep>65.40620203553796 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="76_24309637" type="shape" x="42923.38824883769" y="2395.5392821792125" r="-180" s="141.19801984630033" class="line3">
+      <geom type="line">
+        <sp>-168.36747006982463 0</sp>
+        <ep>168.3674700698246 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="77_24309637" type="shape" x="31343.721998895748" y="21272.98960197368" r="-180" s="141.19801984630033" class="line3">
+      <geom type="line">
+        <sp>-86.35735220452665 0</sp>
+        <ep>86.35735220452665 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="78_24309637" type="shape" x="19150.93957883792" y="11836.831320437952" r="90.00368145080805" s="141.19801984630044" class="line3">
+      <geom type="line">
+        <sp>-66.83828928962082 0</sp>
+        <ep>66.83828928962083 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="80_24309637" type="button" x="62291.74411460325" y="-36931.68268442505" r="0" s="24.504890185854407" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1057.8034682080925</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="84_24309637" type="button" x="34085.39239904959" y="21235.054823111976" r="0" s="9.69114588899406" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="85_24309637" type="button" x="43624.34181464823" y="37703.54381974907" r="0" s="20.322425129493542" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.2079002079001</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="88_24309637" type="shape" x="43541.562501642" y="26534.384250079296" r="89.99999999999994" s="141.19801984630033" class="line3">
+      <geom type="line">
+        <sp>37.2362989940309 0</sp>
+        <ep>-37.2362989940309 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="90_24309637" type="shape" x="-26037.91077343494" y="37760.76703981271" r="1.1712886442317284e-14" s="141.19801984630044" class="line3">
+      <geom type="arrow">
+        <sp>-443.08361261506207 0</sp>
+        <ep>443.08361261506207 0</ep>
+        <t>7</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="92_24309637" type="text" x="34040.133880505324" y="19114.914434984086" r="0" s="22.496570589366197" class="head">
+      <height>29.16</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[Main Function]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="94_24309637" type="button" x="44086.32848134131" y="2580.509561905692" r="0" s="9.252943750592724" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="22_77256979" type="image" x="44059.650039162974" y="2011.6947154946317" r="0" s="9.24813799727862">
+      <source w="1366" h="768">1698269695<mask x="50" y="101" w="431" h="189"/>
+      <url>1698269695.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 10:56:37.png</sourceUrl>
+    <resource><id>1698269695</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/9/1/f1c34ec0e4119f7e28c1ba62866a8f669788a.png</url></resource></object>
+    <object id="24_77256979" type="image" x="44059.65003916298" y="4070.884846622666" r="0" s="7.798533423853799">
+      <source w="1366" h="768">1698278992<mask x="52" y="91" w="1193" h="238"/>
+      <url>1698278992.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 11:01:35.png</sourceUrl>
+    <resource><id>1698278992</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/7/7/aaf1fea7d6a65c63fecbdf1dd3787591e5f04.png</url></resource></object>
+    <object id="95_24309637" type="text" x="44043.116405997134" y="556.2350355066519" r="0" s="21.479348740487378" class="head">
+      <height>29.16</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[Taking Input]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="97_24309637" type="button" x="49596.19074634123" y="-16159.574074576532" r="0" s="9.252943750592724" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="98_24309637" type="text" x="49552.978670997036" y="-18183.848600975984" r="0" s="21.479348740487378" class="head">
+      <height>29.16</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[Execution of a Command]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="100_24309637" type="button" x="21000.361747405324" y="-16177.44154181811" r="0" s="9.252943750592724" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="101_24309637" type="text" x="20793.579775347956" y="-16153.731334027852" r="0" s="42.099523531355246" class="head">
+      <height>29.16</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[Examples]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="58_24309637" type="shape" x="62367.86767813036" y="37758.686839655165" r="-2.9817700138720475e-16" s="63.96938111521288" class="line5">
+      <geom type="line">
+        <sp>-181.62177324208997 0</sp>
+        <ep>181.62177324208997 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="9_77256979" type="button" x="-80428.7083071962" y="-23520.965496752837" r="-37.14458948731899" s="17.45713406436629" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="59_24309637" type="shape" x="-86392.77070573883" y="-22271.864414003645" r="-127.14458948731902" s="7.2860204744552926" class="line5">
+      <geom type="line">
+        <sp>-98.18038015403644 0</sp>
+        <ep>98.18038015403644 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="60_24309637" type="shape" x="-86136.5263484907" y="-23362.996830126973" r="142.864300395661" s="7.286020474455295" class="line5">
+      <geom type="line">
+        <sp>-118.4515144583979 0</sp>
+        <ep>118.4515144583979 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="61_24309637" type="shape" x="89138.27000463479" y="6002.709774128762" r="89.99999999999997" s="63.969381115212876" class="line5">
+      <geom type="line">
+        <sp>-300.0595058547341 0</sp>
+        <ep>300.0595058547341 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="63_24309637" type="shape" x="81543.47976292566" y="-13187.431509489264" r="-8.905553108097847e-15" s="63.96938111521292" class="line5">
+      <geom type="line">
+        <sp>-118.4320014967452 0</sp>
+        <ep>118.4320014967452 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="69_24309637" type="shape" x="81543.57208070492" y="-13187.2707239971" r="0" s="97.57400889052484" class="poly5">
+      <geom type="poly">
+        <p x="-50.484313717977784" y="-28.999941549582445"/>
+        <p x="50.484313717977784" y="-28.999941549582445"/>
+        <p x="50.484313717977784" y="28.999941549582445"/>
+        <p x="-50.484313717977784" y="28.999941549582445"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="70_24309637" type="text" x="-40531.85063932604" y="33028.9507234491" r="-8.905553108097847e-15" s="368.5827701314138" class="head">
+      <height>29.16</height>
+      <width>262.60971663132835</width>
+      <p>
+        <text><![CDATA[Shell in C]]></text>
+      </p>
+    </object>
+    <object id="81_24309637" type="text" x="-46784.36670637973" y="42161.819284404875" r="0" s="266.19900777886" class="body">
+      <height>29.16</height>
+      <width>313.04239127918635</width>
+      <p>
+        <text><![CDATA[By  -  Aakash and Kartik]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="82_24309637" type="shape" x="73965.87572710893" y="-17767.540756239752" r="-90.0015811321469" s="63.96938111521298" class="line5">
+      <geom type="line">
+        <sp>-71.63214385583152 0</sp>
+        <ep>71.63214385583152 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="83_24309637" type="shape" x="73963.91666481226" y="-23591.815767393935" r="0" s="62.10176996731451" class="circle poly5">
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="108_24309637" type="shape" x="89210.37953479041" y="5605.436962810122" r="0" s="97.57400889052484" class="poly5">
+      <geom type="poly">
+        <p x="-50.484313717977784" y="-28.999941549582445"/>
+        <p x="50.484313717977784" y="-28.999941549582445"/>
+        <p x="50.484313717977784" y="28.999941549582445"/>
+        <p x="-50.484313717977784" y="28.999941549582445"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="0_77256979" type="text" x="40425.98687978778" y="34855.30235283044" r="0" s="34.8910307683372" class="body">
+      <height>29.16</height>
+      <width>-101.18400000000001</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[msh.c ]]></text>
+      </p>
+    </object>
+    <object id="1_77256979" type="text" x="43519.08956064533" y="33547.616351464465" r="0" s="46.439961952656844" class="head">
+      <height>29.16</height>
+      <width>-46.896</width>
+      <p>
+        <text><![CDATA[Files]]></text>
+      </p>
+    </object>
+    <object id="2_77256979" type="text" x="43277.51511446584" y="35591.56966937704" r="0" s="17.904615692209614" class="body">
+      <height>29.16</height>
+      <width>-271.296</width>
+      <p>
+        <text><![CDATA[contains the main program]]></text>
+      </p>
+    </object>
+    <object id="3_77256979" type="text" x="40857.497341436334" y="37218.44569849685" r="0" s="34.8910307683372" class="body">
+      <height>29.16</height>
+      <width>-125.80799999999999</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[utilities.h]]></text>
+      </p>
+    </object>
+    <object id="4_77256979" type="text" x="44587.029642933514" y="37913.56776700987" r="0" s="17.904615692209614" class="body">
+      <height>29.16</height>
+      <width>-417.552</width>
+      <p>
+        <text><![CDATA[user-defined functions used in main code]]></text>
+      </p>
+    </object>
+    <object id="5_77256979" type="text" x="41872.61258666921" y="39528.833805641516" r="0" s="34.89103076833723" class="body">
+      <height>29.16</height>
+      <width>-184.07999999999998</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[declarartions.h]]></text>
+      </p>
+    </object>
+    <object id="6_77256979" type="text" x="44725.80214982468" y="40780.22552689512" r="0" s="16.27692335655419" class="body">
+      <height>87.48</height>
+      <width>476.3427804733016</width>
+      <p>
+        <text><![CDATA[declarations of functions, macros, struct]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ and other library files containing]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ system calls]]></text>
+      </p>
+    </object>
+    <object id="7_77256979" type="image" x="-80372.12248263764" y="-23479.563897618238" r="-37.144589487319" s="9.383249263932022">
+      <source w="1366" h="768">1698186166<mask x="46" y="20" w="1271" h="748"/>
+      <url>1698186166.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/f/d/6/20a853e9aa33123062c164ed667d4cc517577.png</sourceUrl>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>1698186166</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/d/6/20a853e9aa33123062c164ed667d4cc517577.png</url></resource></object>
+    <object id="8_77256979" type="text" x="-83348.05343655088" y="-27357.573066426332" r="-37.14458948731899" s="30.3013239429485" class="head">
+      <height>29.16</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[Compiling and Running]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="10_77256979" type="image" x="34040.22824787726" y="21672.422016940167" r="0" s="8.153240816802949">
+      <source w="1366" h="768">1698205564<mask x="47" y="87" w="873" h="518"/>
+      <url>1698205564.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 10:24:11.png</sourceUrl>
+    <resource><id>1698205564</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/1/6/cfa68397f6b3018fdb3d0b9e5c194b1e53cd7.png</url></resource></object>
+    <object id="11_77256979" type="button" x="25539.604303179585" y="26814.856212936353" r="0" s="7.028345990012798" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>961.904761904762</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="13_77256979" type="shape" x="28997.699619190906" y="24397.031307998255" r="-55.49147701233138" s="21.10907361484402" class="line3">
+      <geom type="line">
+        <sp>-13.081205304087527 0</sp>
+        <ep>13.081205304087526 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="14_77256979" type="button" x="43071.4815305681" y="15582.982005898039" r="0" s="6.826333492338125" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>991.875</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="15_77256979" type="shape" x="39355.229120674805" y="17892.05079594179" r="-49.18491612511839" s="21.109073614844007" class="line3">
+      <geom type="line">
+        <sp>-19.584182211144277 0</sp>
+        <ep>19.58418221114428 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="16_77256979" type="text" x="25432.32799106894" y="25119.447191042374" r="0" s="12.77098953698063" class="head">
+      <height>29.16</height>
+      <width>-52.512</width>
+      <p>
+        <text><![CDATA[Init ()]]></text>
+      </p>
+    </object>
+    <object id="17_77256979" type="image" x="24574.128048720657" y="27001.935377847905" r="0" s="5.017639741799892">
+      <source w="1366" h="768">1698232945<mask x="51" y="90" w="800" h="630"/>
+      <url>1698232945.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 10:37:56.png</sourceUrl>
+    <resource><id>1698232945</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/a/e/79f2e5aa5fe262768f5c6687aaaf629650c2c.png</url></resource></object>
+    <object id="18_77256979" type="text" x="27688.183726881434" y="26862.097405373916" r="0" s="5.45869820064112" class="body">
+      <height>495.72</height>
+      <width>356.7802226649304</width>
+      <p>
+        <text><![CDATA[A subshell that runs interactively has to ensure that it has been placed in the foreground by its parent shell before it can enable job control itself.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[It does this by getting its initial process group ID with the getpgrp ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[function, and comparing it to the process group ID of the current ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[foreground job associated with its controlling terminal ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Once the subshell has been placed into the foreground by its parent shell, it can enable its own job control. ]]></text>
+      </p>
+    </object>
+    <object id="19_77256979" type="text" x="43071.48153056805" y="13977.953593593367" r="0" s="10.554536807422009" class="head">
+      <height>29.16</height>
+      <width>-392.06399999999996</width>
+      <p>
+        <text><![CDATA[welcomeScreen ()   and   shellPrompt()]]></text>
+      </p>
+    </object>
+    <object id="20_77256979" type="image" x="43071.745393988276" y="15417.80350486188" r="0" s="5.197672811480106">
+      <source w="1366" h="768">1698251872<mask x="52" y="90" w="887" h="380"/>
+      <url>1698251872.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 10:45:58.png</sourceUrl>
+    <resource><id>1698251872</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/6/6/6a39d5500ebed650d133709c1b0443147bf5c.png</url></resource></object>
+    <object id="21_77256979" type="text" x="43491.494532823104" y="16900.982440833668" r="0" s="5.9577608715827495" class="body">
+      <height>116.64</height>
+      <width>947.177942745389</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[  Prompt symbol of our shell is '\m/']]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[  The getcwd function(in unistd.h) returns an absolute file name representing the ]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[  current working directory, storing it in the character array buffer(currentDirectory)]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[  that we provide.]]></text>
+      </p>
+    </object>
+    <object id="25_77256979" type="button" x="35896.50740888261" y="7931.998274197822" r="0" s="6.02463316827411" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1026.7892842862857</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="26_77256979" type="shape" x="39077.49181261207" y="5679.439437720869" r="-62.396020069380846" s="21.109073614844014" class="line3">
+      <geom type="line">
+        <sp>-17.732254991472363 0</sp>
+        <ep>17.73225499147236 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="27_77256979" type="button" x="52582.43851115625" y="7958.91234305675" r="0" s="5.916573181214605" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1119.6850393700788</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="29_77256979" type="shape" x="49158.02673722693" y="5782.484789267073" r="62.7004277886671" s="21.109073614844018" class="line3">
+      <geom type="line">
+        <sp>22.64598434393236 0</sp>
+        <ep>-22.645984343932355 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="31_77256979" type="image" x="35771.43614771465" y="7928.8319131555945" r="0" s="8.430105769037718">
+      <source w="1366" h="768">1698287518<mask x="54" y="92" w="529" h="187"/>
+      <url>1698287518.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 11:07:00.png</sourceUrl>
+    <resource><id>1698287518</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/e/7/9b6b9180270cc203fb2cb170706179b84bf1b.png</url></resource></object>
+    <object id="30_77256979" type="text" x="35770.644557454114" y="6513.257436544156" r="0" s="10.554536807422009" class="head">
+      <height>29.16</height>
+      <width>-200.184</width>
+      <p>
+        <text><![CDATA[destroyCommand()]]></text>
+      </p>
+    </object>
+    <object id="32_77256979" type="text" x="36125.9311651695" y="9026.384901492644" r="0" s="5.9577608715827495" class="body">
+      <height>29.16</height>
+      <width>727.2909525192135</width>
+      <p>
+        <text><![CDATA[It empties the array having the previous command stored]]></text>
+      </p>
+    </object>
+    <object id="33_77256979" type="image" x="52537.054002884324" y="7899.806936935184" r="0" s="7.740400386440664">
+      <source w="1366" h="768">1698293797<mask x="53" y="90" w="612" h="244"/>
+      <url>1698293797.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 11:10:07.png</sourceUrl>
+    <resource><id>1698293797</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/2/5/8b1cb644bc4a81b42fb9a30075e6398eef09b.png</url></resource></object>
+    <object id="34_77256979" type="text" x="52536.79013946414" y="6632.787565888216" r="0" s="10.554536807422009" class="head">
+      <height>29.16</height>
+      <width>-214.344</width>
+      <p>
+        <text><![CDATA[populateCommand()]]></text>
+      </p>
+    </object>
+    <object id="38_77256979" type="text" x="52561.434375767625" y="9183.401200187911" r="0" s="5.416146246893408" class="body">
+      <height>87.48</height>
+      <width>810.9215648893329</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[We are breaking the user stored text in buffer appropriately and storing that in global  array of strings commandArgc]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[strtok(a, b) breaks string 'a' into a series of tokens using the delimiter 'b']]></text>
+      </p>
+    </object>
+    <object id="40_77256979" type="button" x="46374.25806809158" y="-17089.958751286827" r="0" s="2.000700756529196" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>linear-4</parentObjlib>
+      </meta>
+    </object>
+    <object id="41_77256979" type="shape" x="46542.89344527313" y="-15532.072680975893" r="56.678177261171825" s="7.648002211110152" class="line1">
+      <geom type="arrow">
+        <sp>-112.2245670913194 -33.310252993937475</sp>
+        <ep>112.2245670913194 -33.310252993937475</ep>
+        <b>66.62050598787495</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>linear-4</parentObjlib>
+      </meta>
+    </object>
+    <object id="42_77256979" type="button" x="48017.02044997017" y="-14815.766484005328" r="0" s="2.000700756529196" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>linear-4</parentObjlib>
+      </meta>
+    </object>
+    <object id="43_77256979" type="shape" x="49376.32466892491" y="-15310.012249348387" r="-44.99999999999995" s="7.648002211110152" class="line1">
+      <geom type="arrow">
+        <sp>-87.09181753218284 -24.380642726821097</sp>
+        <ep>87.09181753218283 -24.380642726821097</ep>
+        <b>48.76128545364219</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>linear-4</parentObjlib>
+      </meta>
+    </object>
+    <object id="44_77256979" type="button" x="50262.718500574025" y="-16483.742692343" r="0" s="2.000700756529196" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>linear-4</parentObjlib>
+      </meta>
+    </object>
+    <object id="45_77256979" type="shape" x="52198.5783639287" y="-16736.09734487899" r="35.557405478390756" s="7.648002211110156" class="line1">
+      <geom type="arrow">
+        <sp>-160.93566328939684 68.12776846034892</sp>
+        <ep>160.9356632893968 68.12776846034892</ep>
+        <b>-136.25553692069784</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>linear-4</parentObjlib>
+      </meta>
+    </object>
+    <object id="46_77256979" type="button" x="52848.94245848273" y="-14805.17288347426" r="0" s="2.000700756529196" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>linear-4</parentObjlib>
+      </meta>
+    </object>
+    <object id="48_77256979" type="text" x="46377.18474664288" y="-17495.98014330035" r="0" s="4.009718498343594" class="head">
+      <height>29.16</height>
+      <width>247.4191945359406</width>
+      <p align="center">
+        <text><![CDATA[handleUserCommand()]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="40_77256979"/>
+      </layout>
+    </object>
+    <object id="50_77256979" type="text" x="48017.255655958295" y="-15227.577561428669" r="0" s="4.009718498343594" class="head">
+      <height>29.16</height>
+      <width>287.0648399814634</width>
+      <p align="center">
+        <text><![CDATA[checkBuiltInCommands()]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="42_77256979"/>
+      </layout>
+    </object>
+    <object id="52_77256979" type="text" x="50247.86253317564" y="-16925.370559843377" r="0" s="4.410690348177954" class="head">
+      <height>29.16</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[launchJob()]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="44_77256979"/>
+      </layout>
+    </object>
+    <object id="54_77256979" type="text" x="52841.92888339248" y="-15235.597333391555" r="0" s="4.410690348177954" class="head">
+      <height>29.16</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[executeCommand()]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="46_77256979"/>
+      </layout>
+    </object>
+    <object id="57_77256979" type="persistentgroup" x="13674.878440984758" y="-11570.040802222367" r="0" s="11.199773239053519">
+      <m o="43_77256979"/>
+      <m o="40_77256979"/>
+      <m o="41_77256979"/>
+      <m o="42_77256979"/>
+      <m o="44_77256979"/>
+      <m o="45_77256979"/>
+      <m o="46_77256979"/>
+      <m o="48_77256979"/>
+      <m o="49_77256979"/>
+      <m o="50_77256979"/>
+      <m o="51_77256979"/>
+      <m o="52_77256979"/>
+      <m o="53_77256979"/>
+      <m o="54_77256979"/>
+      <m o="55_77256979"/>
+    </object>
+    <object id="58_77256979" type="image" x="46379.009502593966" y="-17111.806662453124" r="0" s="1.862932535186182">
+      <source w="1366" h="768">1698352465<mask x="53" y="91" w="682" h="156"/>
+      <url>1698352465.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 11:37:11.png</sourceUrl>
+    <resource><id>1698352465</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/0/1/8f7debae6a1aff11b9d7bda4b8d80f32d1ec0.png</url></resource></object>
+    <object id="60_77256979" type="text" x="48062.03333146813" y="-14755.482885389361" r="0" s="2.263381559169339" class="body">
+      <height>262.44</height>
+      <width>537.281605400208</width>
+      <p>
+        <text><![CDATA[This function checks whether the command entered by the user belongs to built in commands defined by us. We have defined the following demands :]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[exit]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[cd]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[bg (to put a job in background)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[fg  (bringing a background job to foreground)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[jobs  (listing the running jobs)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[kill  (killing a job)]]></text>
+      </p>
+    </object>
+    <object id="68_77256979" type="button" x="-15250.585834032934" y="-1089.482811882957" r="0" s="49.3312520407045" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.2670226969292</h>
+      </size>
+    </object>
+    <object id="47_77256979" type="button" x="-13971.876379022706" y="-2261.210454814791" r="6.807398008267374" s="12.108644932427348" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>809.8511338856158</w>
+        <h>607.3883504142118</h>
+      </size>
+    </object>
+    <object id="37_77256979" type="image" x="-13863.379708474784" y="-3170.7137305536944" r="6.807398008267374" s="6.339693478478927">
+      <source w="1366" h="768">1698409063<mask x="51" y="90" w="961" h="646"/>
+      <url>1698409063.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 11:53:42.png</sourceUrl>
+    <resource><id>1698409063</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/2/c/e73b562005f442052ab99738a51073f03488f.png</url></resource></object>
+    <object id="39_77256979" type="image" x="-14224.87448581407" y="-199.2077544127218" r="6.807398008267373" s="5.227001673756429">
+      <source w="1366" h="768">1698409219<mask x="49" y="90" w="1171" h="348"/>
+      <url>1698409219.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 11:54:04.png</sourceUrl>
+    <resource><id>1698409219</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/7/4/5dcccd9dcf58d7aa39722af61c3d470d884b6.png</url></resource></object>
+    <object id="49_77256979" type="text" x="-13851.26430871363" y="-5595.039515453276" r="6.807398008267378" s="20.905399282539086" class="head">
+      <height>29.16</height>
+      <width>-53.928</width>
+      <p>
+        <text><![CDATA[Code]]></text>
+      </p>
+    </object>
+    <object id="12_77256979" type="text" x="50282.852856652666" y="-16435.913812437135" r="0" s="2.263381559169339" class="body">
+      <height>320.76000000000005</height>
+      <width>524.9203981731453</width>
+      <p>
+        <text><![CDATA[This function uses the fork() system call to create child processes in the shell and execute the commands. fork() turns a single process into 2 identical processes, known as the parent and the child.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[On success, fork() returns 0 to the child process and returns the process ID of the child process to the parent process. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[On failure,fork() returns -1 to the parent process, ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[sets errno to indicate the error, and no child process is created. ]]></text>
+      </p>
+    </object>
+    <object id="56_77256979" type="button" x="-23654.26936311139" y="-9598.478466242503" r="-28.490931672523562" s="8.388143274430423" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="53_77256979" type="image" x="-24135.921512578592" y="-10115.819622612114" r="-28.49093167252355" s="4.111535484170894">
+      <source w="1366" h="768">1698460669<mask x="50" y="93" w="849" h="642"/>
+      <url>1698460669.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/9/c/0/78f0ddcac5553ee831091866e99b462f99f7e.png</sourceUrl>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>1698460669</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/c/0/78f0ddcac5553ee831091866e99b462f99f7e.png</url></resource></object>
+    <object id="36_77256979" type="text" x="-24912.426758601676" y="-11546.68019764905" r="-28.49093167252356" s="17.318958157043976" class="head">
+      <height>29.16</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[Code]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="51_77256979" type="image" x="-23132.553170484447" y="-8267.305078656756" r="-28.49093167252355" s="3.403387902804012">
+      <source w="1366" h="768">1698460966<mask x="51" y="445" w="1033" h="299"/>
+      <url>1698460966.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/b/3/9/9e2c0ff90e997dca8e8a0125647ea7b627ab7.png</sourceUrl>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>1698460966</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/3/9/9e2c0ff90e997dca8e8a0125647ea7b627ab7.png</url></resource></object>
+    <object id="59_77256979" type="text" x="52890.31186925091" y="-14765.378445275837" r="0" s="2.7386916865949016" class="body">
+      <height>233.28000000000003</height>
+      <width>448.0223433730834</width>
+      <p>
+        <text><![CDATA[It makes use of execvp(*command, command) system call to execute commands.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Other than the commands we have defined, we can also run the inbuilt commands like ls, man, $SHELL, etc. because our shell is actually a process of the main shell. So they share the same bin.]]></text>
+      </p>
+    </object>
+    <object id="63_77256979" type="button" x="-7096.738517057438" y="-9045.02963763768" r="35.396234648411486" s="8.618980880145497" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="61_77256979" type="image" x="-7103.7341390870315" y="-9058.734843941133" r="35.396234648411486" s="4.94120700292769">
+      <source w="1366" h="768">1698510256<mask x="54" y="86" w="1182" h="661"/>
+      <url>1698510256.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/c/4/1/790cad45d6a495f8e3dc67bf5230f9670ab50.png</sourceUrl>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>1698510256</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/4/1/790cad45d6a495f8e3dc67bf5230f9670ab50.png</url></resource></object>
+    <object id="62_77256979" type="text" x="-5764.791427513417" y="-11043.188784455204" r="35.39623464841151" s="14.96044715841785" class="head">
+      <height>29.16</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[Code]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="64_77256979" type="button" x="49597.03582042912" y="-16159.19980290207" r="0" s="10.523908847047068" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1131.621187800963</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="65_77256979" type="button" x="49595.91547867082" y="-16160.320144660383" r="0" s="13.154886058808833" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1131.621187800963</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="66_77256979" type="button" x="49595.91547867082" y="-16159.19980290207" r="0" s="14.034022054797322" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1131.621187800963</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="67_77256979" type="button" x="-67177.30598991318" y="-13667.559732422069" r="0" s="74.85309471863907" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="69_77256979" type="shape" x="-19372.440843068416" y="12486.320411535487" r="-19.322623118364874" s="32.66302502359635" class="line5">
+      <geom type="line">
+        <sp>1384.234819457478 -349.1534297562896</sp>
+        <ep>-1384.234819457478 -349.15342975629005</ep>
+        <b>-698.3068595125796</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="73_77256979" type="button" x="-64103.43559127902" y="-31239.68023755198" r="4.778411288443114" s="12.611962455734398" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="71_77256979" type="image" x="-64024.66428203065" y="-31736.43161043533" r="4.778411288443115" s="6.380995229427036">
+      <source w="1366" h="768">1698558157<mask x="50" y="24" w="1284" h="743"/>
+      <url>1698558157.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/e/5/7/8e3c3bda9d7feaa826a6b7868a99164e86011.png</sourceUrl>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>1698558157</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/5/7/8e3c3bda9d7feaa826a6b7868a99164e86011.png</url></resource></object>
+    <object id="72_77256979" type="text" x="-63974.861828212124" y="-34747.57638449635" r="4.778411288443115" s="21.891288599746748" class="head">
+      <height>29.16</height>
+      <width>306.3078079062704</width>
+      <p align="center">
+        <text><![CDATA[' cd ' example]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="80_77256979" type="button" x="-53911.339229772115" y="-24390.350701200892" r="5.179339405665061" s="10.465440674990598" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="74_77256979" type="text" x="-64275.620835891925" y="-28779.84971025694" r="4.778411288443109" s="12.35706170984051" class="body">
+      <height>87.48</height>
+      <width>611.2738564816311</width>
+      <p>
+        <text><![CDATA[Here cd command changes the current directory. ' ls ' is used to illustrate that  cd actually works and not just only prints the changed path. Lets see how it got executed...]]></text>
+      </p>
+    </object>
+    <object id="75_77256979" type="button" x="49595.91547867082" y="-16158.079461143761" r="0" s="14.971910372621785" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1131.621187800963</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="76_77256979" type="button" x="49595.91547867082" y="-16159.19980290207" r="0" s="18.714887965777233" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1131.621187800963</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="77_77256979" type="button" x="49597.03582042912" y="-16159.19980290207" r="0" s="23.393609957221543" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1131.621187800963</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="78_77256979" type="button" x="49597.03582042912" y="-16158.079461143761" r="0" s="29.242012446526928" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1131.621187800963</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="79_77256979" type="button" x="49598.156162187435" y="-16159.19980290207" r="0" s="36.55251555815865" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1131.621187800963</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="81_77256979" type="text" x="-53333.01632871107" y="-26799.795206422572" r="5.1793394056650595" s="23.201805648586618" class="head">
+      <height>29.16</height>
+      <width>209.97156369576413</width>
+      <p>
+        <text><![CDATA[changeDirectory()]]></text>
+      </p>
+    </object>
+    <object id="82_77256979" type="image" x="-53861.67632856891" y="-24411.57036364743" r="5.17933940566506" s="5.59653194374043">
+      <source w="1366" h="768">1698585739<mask x="50" y="87" w="1128" h="459"/>
+      <url>1698585739.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 13:48:25.png</sourceUrl>
+    <resource><id>1698585739</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/8/2/99d902a36f81ede983ce96c9b1ebcff65eaa3.png</url></resource></object>
+    <object id="83_77256979" type="text" x="46391.58372475808" y="-16924.243875571166" r="0" s="1.7005120654916146" class="body">
+      <height>29.16</height>
+      <width>670.6849854835954</width>
+      <p>
+        <text><![CDATA[0 is returned when the entered command is not found in built-in.]]></text>
+      </p>
+    </object>
+    <object id="84_77256979" type="button" x="-25377.814423580763" y="-12948.446924385415" r="-28.49093167252355" s="3.010474034947157" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>794.3661971830986</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="85_77256979" type="text" x="-25355.81476985498" y="-12951.558431339725" r="-28.49093167252356" s="4.517980464525061" class="body">
+      <height>262.44</height>
+      <width>458.28132967224735</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Child process is created for cd]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Process is made session leader using setpgrp()]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Execution mode is foreground so tcsetpgrp() ensures no other activity occurs before completion of current process]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Lets see what the parent process does in the mean time....]]></text>
+      </p>
+    </object>
+    <object id="86_77256979" type="button" x="-23220.04998567417" y="-14818.820593879696" r="-28.49093167252356" s="0.6906126965009828" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>795.1219512195122</w>
+        <h>592.0186072587967</h>
+      </size>
+    </object>
+    <object id="55_77256979" type="button" x="-23903.23824969167" y="-14462.086329720049" r="-28.490931672523548" s="0.7011475583892116" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>796.1700140121438</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="28_77256979" type="image" x="-23902.117907933363" y="-14457.604962686813" r="-28.490931672523548" s="1.275703138710329">
+      <source w="1366" h="768">1698628498<mask x="52" y="87" w="406" h="289"/>
+      <url>1698628498.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 14:08:15.png</sourceUrl>
+    <resource><id>1698628498</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/c/0/312e99a950fc1d467ab19eb3b66acc890f108.png</url></resource></object>
+    <object id="35_77256979" type="image" x="-23221.364664065448" y="-14809.027718223258" r="-28.490931672523562" s="0.5919369874167008">
+      <source w="1366" h="768">1698630130<mask x="48" y="84" w="806" h="654"/>
+      <url>1698630130.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 14:07:39.png</sourceUrl>
+    <resource><id>1698630130</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/9/8/d9d01f7b0bc3fa41a308fb586edd70f70e17b.png</url></resource></object>
+    <object id="87_77256979" type="text" x="-23327.857082972874" y="-14984.667327172141" r="-28.49093167252355" s="0.9253883490654039" class="body">
+      <height>29.16</height>
+      <width>-140.16000000000003</width>
+      <p>
+        <text><![CDATA[Job is inserted]]></text>
+      </p>
+    </object>
+    <object id="88_77256979" type="button" x="-23616.472169489312" y="-13890.144594279996" r="-28.49093167252356" s="0.681152669322291" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>892.5468825132234</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="89_77256979" type="image" x="-23616.472169489312" y="-13890.144594279996" r="-28.49093167252356" s="0.42970114753169264">
+      <source w="1366" h="768">1698644356<mask x="51" y="89" w="1299" h="657"/>
+      <url>1698644356.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 14:21:20.png</sourceUrl>
+    <resource><id>1698644356</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/0/1/842d96db1336c52f12986a80a7502ba2abb2b.png</url></resource></object>
+    <object id="90_77256979" type="button" x="-22894.74134073268" y="-14266.330442200893" r="-28.49093167252356" s="0.6777169906429358" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>797.6154992548435</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="91_77256979" type="image" x="-22892.206773385242" y="-14257.509488148997" r="-28.490931672523548" s="0.41140898938130227">
+      <source w="1366" h="768">1698650791<mask x="50" y="86" w="1254" h="653"/>
+      <url>1698650791.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 14:24:56.png</sourceUrl>
+    <resource><id>1698650791</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/7/8/6326208dee3416e71fa87e131ac2609a29115.png</url></resource></object>
+    <object id="92_77256979" type="text" x="-23706.62954906813" y="-14041.496931087464" r="-28.49093167252356" s="0.8096397978618968" class="body">
+      <height>58.32</height>
+      <width>662.5369470592461</width>
+      <p>
+        <text><![CDATA[Parent process is put to wait till the child process is not completed if mode is foreground]]></text>
+      </p>
+    </object>
+    <object id="93_77256979" type="text" x="-22951.271379586815" y="-14415.446367916677" r="-28.49093167252356" s="0.9796641554128953" class="body">
+      <height>29.16</height>
+      <width>335.4454091871887</width>
+      <p>
+        <text><![CDATA[Deleting job after completion]]></text>
+      </p>
+    </object>
+    <object id="94_77256979" type="button" x="49596.8729164364" y="-16159.000574800632" r="0" s="11.22721764383786" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1117.174959871589</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="95_77256979" type="button" x="-7096.844816346857" y="-9044.6876005828" r="35.3962346484115" s="9.486644667205084" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1117.174959871589</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="98_77256979" type="button" x="-7581.466879248245" y="-13496.013316415141" r="35.3962346484115" s="1.3796834707199122" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>794.1309255079008</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="99_77256979" type="text" x="-7585.799365464181" y="-13484.979440173269" r="35.3962346484115" s="1.909088291910167" class="body">
+      <height>58.32</height>
+      <width>-533.1840000000001</width>
+      <p>
+        <text><![CDATA[In case of 'cd' descriptor is not of any use. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[It will be used when we'll redirect output to some file.]]></text>
+      </p>
+    </object>
+    <object id="100_77256979" type="button" x="52848.90936729077" y="-14805.075158177944" r="0" s="2.936145611108565" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1117.174959871589</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="101_77256979" type="button" x="-27528.8622605154" y="-1919.0155510281002" r="-28.490931672523548" s="8.365839188842719" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>659.0551181102362</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="102_77256979" type="text" x="-28431.16625106133" y="-3755.336131413237" r="-28.49093167252356" s="17.277189489701726" class="head">
+      <height>58.32</height>
+      <width>182.26614882046457</width>
+      <p>
+        <text><![CDATA[Signal Handler for Child Process]]></text>
+      </p>
+    </object>
+    <object id="103_77256979" type="image" x="-27465.76689246778" y="-1795.0202664685357" r="-28.49093167252356" s="3.475881223785757">
+      <source w="1366" h="768">1698741991<mask x="53" y="89" w="1306" h="654"/>
+      <url>1698741991.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 15:08:38.png</sourceUrl>
+    <resource><id>1698741991</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/9/0/6749d84b95dbc5955205ddaf6801f287c3255.png</url></resource></object>
+    <object id="104_77256979" type="button" x="-64096.15" y="-15426.2" r="21.9403988586106" s="16.622131374094764" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="23_77256979" type="text" x="-62203.70175348329" y="-19602.42117828203" r="21.940398858610596" s="35.20000000000002" class="head">
+      <height>29.16</height>
+      <width>-141.768</width>
+      <p>
+        <text><![CDATA[' bg ' Example]]></text>
+      </p>
+    </object>
+    <object id="70_77256979" type="image" x="-64169.876301744625" y="-15244.393654413605" r="21.940398858610596" s="9.21838061904709">
+      <source w="1366" h="768">1698765712<mask x="48" y="25" w="1180" h="740"/>
+      <url>1698765712.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/a/0/e/776ec405c08306c7f8917c8ed9cc93b7186a6.png</sourceUrl>
+    <resource><id>1698765712</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/0/e/776ec405c08306c7f8917c8ed9cc93b7186a6.png</url></resource></object>
+    <object id="96_77256979" type="button" x="-55257.4" y="-18565.3" r="0" s="3.4970145139894346" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>793.469387755102</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="97_77256979" type="text" x="-55281.99999999996" y="-18674.990909090913" r="0" s="3.6363636363636362" class="body">
+      <height>233.28</height>
+      <width>552</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[After executing ' bg ' command, shell prompt is made available immediately for further working.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Using the ' jobs ', we checked the status of jobs.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[This example also made use of the descriptor we talked of earlier, as the output is directed to a text file.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Lets have a look at a few functions which were not talked about but are used in this case....]]></text>
+      </p>
+    </object>
+    <object id="108_77256979" type="button" x="-48858.2" y="-12089.45" r="3.514044242175518" s="11.01356455916589" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.4164497657471</h>
+      </size>
+    </object>
+    <object id="105_77256979" type="button" x="-48900.05000000001" y="-12450.9" r="0" s="7.2259669878958235" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>672.6224783861671</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="106_77256979" type="image" x="-48900.15598938306" y="-12451.005989383042" r="9.470789929167927e-16" s="3.3582781428485875">
+      <source w="1366" h="768">1698794035<mask x="41" y="81" w="1324" h="667"/>
+      <url>1698794035.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 15:33:21.png</sourceUrl>
+    <resource><id>1698794035</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/c/d/65befc0ccf5fb5a5812a4eb8fe238974324b6.png</url></resource></object>
+    <object id="107_77256979" type="button" x="-74234.4" y="-3323.85" r="0" s="16.845018081199495" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>909.2783505154639</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="109_77256979" type="image" x="-74285.54843776704" y="-3370.366291858023" r="0" s="9.399553647725408">
+      <source w="1366" h="768">1698813181<mask x="41" y="49" w="1325" h="717"/>
+      <url>1698813181.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 15:44:02.png</sourceUrl>
+    <resource><id>1698813181</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/c/9/dc71f1c33da32ca0b039151eb3ae314631503.png</url></resource></object>
+    <object id="110_77256979" type="text" x="-74542.95000000001" y="-7907.840000000001" r="0" s="32" class="head">
+      <height>29.16</height>
+      <width>-113.49600000000001</width>
+      <p>
+        <text><![CDATA[Killing Jobs]]></text>
+      </p>
+    </object>
+    <object id="111_77256979" type="text" x="-48845.54999999998" y="-14139.410000000002" r="0" s="8" class="head">
+      <height>29.16</height>
+      <width>-364.512</width>
+      <p>
+        <text><![CDATA[putJobBackground()  and printJobs()]]></text>
+      </p>
+    </object>
+    <object id="112_77256979" type="button" x="-58570.7" y="215.35" r="7.301109129796223e-16" s="11.313417848536835" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="113_77256979" type="text" x="-58533.748" y="-2875.781200000001" r="7.301109129796221e-16" s="19.360000000000003" class="head">
+      <height>29.16</height>
+      <width>-76.488</width>
+      <p>
+        <text><![CDATA[killJob()]]></text>
+      </p>
+    </object>
+    <object id="114_77256979" type="image" x="-58449.977931612215" y="73.47542943094037" r="7.30110912979622e-16" s="13.971004685712288">
+      <source w="1366" h="768">1698820009<mask x="51" y="307" w="463" h="169"/>
+      <url>1698820009.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 15:51:26.png</sourceUrl>
+    <resource><id>1698820009</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/5/3/c5faccea2209585391e125e66cf9c2433c525.png</url></resource></object>
+    <object id="115_77256979" type="image" x="62292.700000000004" y="-36931.55" r="0" s="21.66811182869361">
+      <source w="1366" h="768">1698826315<mask x="43" y="24" w="853" h="485"/>
+      <url>1698826315.png</url></source>
+      <sourceUrl>Screenshot from 2014-04-22 15:54:49.png</sourceUrl>
+    <resource><id>1698826315</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/f/30a352ab035f2f0925d82b158f590cb8460e9.png</url></resource></object>
+  </zui-table>
+  <background>
+    <layer depth="1048.343950952624" fadescale="0.002098547903100765">
+      <object id="background1644285938" type="image" x="709093.4818776053" y="756637.0861861742" r="0" s="1361.9503064460444">
+        <source w="4000" h="2500">1644285938<url>1644285938.png</url></source>
+        <sourceUrl>process.png</sourceUrl>
+      <resource><id>1644285938</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/8/0/fa30726c6f920d4f72324efc03e19180a1119.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="15_24309637"/>
+    </s>
+    <s>
+      <eagle o="85_24309637"/>
+    </s>
+    <s>
+      <eagle o="9_77256979"/>
+    </s>
+    <s>
+      <eagle o="84_24309637"/>
+    </s>
+    <s>
+      <eagle o="11_77256979"/>
+    </s>
+    <s>
+      <eagle o="14_77256979"/>
+    </s>
+    <s>
+      <eagle o="94_24309637"/>
+    </s>
+    <s>
+      <eagle o="25_77256979"/>
+    </s>
+    <s>
+      <eagle o="27_77256979"/>
+    </s>
+    <s>
+      <eagle o="97_24309637"/>
+    </s>
+    <s>
+      <eagle o="40_77256979"/>
+    </s>
+    <s>
+      <eagle o="42_77256979"/>
+    </s>
+    <s>
+      <eagle o="47_77256979"/>
+    </s>
+    <s>
+      <eagle o="37_77256979"/>
+    </s>
+    <s>
+      <eagle o="39_77256979"/>
+    </s>
+    <s>
+      <eagle o="64_77256979"/>
+    </s>
+    <s>
+      <eagle o="44_77256979"/>
+    </s>
+    <s>
+      <eagle o="56_77256979"/>
+    </s>
+    <s>
+      <eagle o="53_77256979"/>
+    </s>
+    <s>
+      <eagle o="51_77256979"/>
+    </s>
+    <s>
+      <eagle o="101_77256979"/>
+    </s>
+    <s>
+      <eagle o="65_77256979"/>
+    </s>
+    <s>
+      <eagle o="46_77256979"/>
+    </s>
+    <s>
+      <eagle o="63_77256979"/>
+    </s>
+    <s>
+      <eagle o="66_77256979"/>
+    </s>
+    <s>
+      <eagle o="100_24309637"/>
+    </s>
+    <s>
+      <eagle o="73_77256979"/>
+    </s>
+    <s>
+      <eagle o="75_77256979"/>
+    </s>
+    <s>
+      <eagle o="58_77256979"/>
+    </s>
+    <s>
+      <eagle o="37_77256979"/>
+    </s>
+    <s>
+      <eagle o="80_77256979"/>
+    </s>
+    <s>
+      <eagle o="82_77256979"/>
+    </s>
+    <s>
+      <eagle o="53_77256979"/>
+    </s>
+    <s>
+      <eagle o="84_77256979"/>
+    </s>
+    <s>
+      <eagle o="51_77256979"/>
+    </s>
+    <s>
+      <eagle o="55_77256979"/>
+    </s>
+    <s>
+      <eagle o="86_77256979"/>
+    </s>
+    <s>
+      <eagle o="88_77256979"/>
+    </s>
+    <s>
+      <eagle o="90_77256979"/>
+    </s>
+    <s>
+      <eagle o="94_77256979"/>
+    </s>
+    <s>
+      <eagle o="100_77256979"/>
+    </s>
+    <s>
+      <eagle o="95_77256979"/>
+    </s>
+    <s>
+      <eagle o="98_77256979"/>
+    </s>
+    <s>
+      <eagle o="104_77256979"/>
+    </s>
+    <s>
+      <eagle o="96_77256979"/>
+    </s>
+    <s>
+      <eagle o="106_77256979"/>
+    </s>
+    <s>
+      <eagle o="107_77256979"/>
+    </s>
+    <s>
+      <eagle o="112_77256979"/>
+    </s>
+    <s>
+      <eagle o="80_24309637"/>
+    </s>
+    <s>
+      <eagle o="15_24309637"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Cabin-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+.line1
+{
+	color: #191919;
+	gradEndColor: #191919;
+	gradStartColor: #191919;
+}
+
+.line2
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.line3
+{
+	color: #2b53b2;
+	gradEndColor: #2b53b2;
+	gradStartColor: #2b53b2;
+}
+
+.line4
+{
+	color: #595959;
+	gradEndColor: #595959;
+	gradStartColor: #595959;
+}
+
+.line5
+{
+	color: #737373;
+	gradEndColor: #737373;
+	gradStartColor: #737373;
+}
+
+.poly1
+{
+	gradEndColor: #191919;
+	gradStartColor: #191919;
+}
+
+.poly2
+{
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly3
+{
+	gradEndColor: #2b53b2;
+	gradStartColor: #2b53b2;
+}
+
+.poly4
+{
+	gradEndColor: #595959;
+	gradStartColor: #595959;
+}
+
+.poly5
+{
+	gradEndColor: #737373;
+	gradStartColor: #737373;
+}
+
+Background
+{
+	gradEnd: #aab;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #9e9ea5;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #737373;
+	gradStartAlhpha: 1;
+	gradStartColor: #737373;
+	lockTintAlpha: 0;
+	thickness: 7;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #2b53b2;
+	gradStartAlpha: 1;
+	gradStartColor: #2b53b2;
+	padding: 1.03;
+	radius: 10;
+	thickness: 18;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #2b53b2;
+	gradStartAlpha: 1;
+	gradStartColor: #2b53b2;
+	padding: 1.03;
+	thickness: 15;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #2b53b2;
+	borderThickness: 20;
+	gradEndAlpha: 1;
+	gradEndColor: #8fa7d9;
+	gradStartAlpha: 1;
+	gradStartColor: #8fa7d9;
+	padding: 1.03;
+	radius: 35;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #404040;
+	background-padding: 5;
+}
+
+ZLabel.head
+{
+	color: #2b53b2;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 5;
+}
+
+ZLabel.strong
+{
+	color: #000;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #2b53b2;
+	background-padding: 5;
+}
+
+ZLine
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.5;
+	color: #edff3d;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 30;
+}
+
+]]></style>
+  <hash>-3e29ce39</hash>
+<sync><oid>7jy4goghatsc</oid><title>shell-in-c</title><hash>-3e29ce39</hash></sync><config>I910fn7ratLp3DKspdeQK462yiI7GYa6giDA5Tu2yqqUyBUKgwovYysNUpciSNQcvXAwsP/oLVwZdBUJOA98U76oeMgdGKjCmqiBnppJoGh55Gb9HwByIJH+N5K2BZC0NY9no8a4a6cn2/TsMpeYEpSNIhckmkbNTsvLfvbvzWBu1skJfnDeWNfqf55ps8V8fETLvd5O0LzTRB5z7uGvtITIHrCJuxKBj3NL3IIDBzLXO+bAW2oi/VrKk778Eo+jUPF9nmJXBF+3hlsSJXWqSWReY67XzZn7YoGir3I946J3nylzN5Vel88skChkiZKmyNE7C71CKKHHh7zK6RsR5w==</config></zuiprezi>

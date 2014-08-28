@@ -1,0 +1,14 @@
+void handleUserCommand()
+void pipelining(int flag)
+int checkBuiltInCommands()
+void executeCommand(char *command[], char *file, int newDescriptor,
+                    int executionMode)
+void launchJob(char *command[], char *file, int newDescriptor,
+               int executionMode)
+void putJobForeground(t_job* job, int continueJob)
+void putJobBackground(t_job* job, int continueJob)
+void waitJob(t_job* job)
+void killJob(int jobId)
+void changeDirectory()
+void init()
+void signalHandler_child(int p)

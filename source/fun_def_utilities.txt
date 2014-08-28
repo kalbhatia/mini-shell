@@ -1,0 +1,11 @@
+void getTextLine()
+void populateCommand()
+void destroyCommand()
+t_job* insertJob(pid_t pid, pid_t pgid, char* name, char* descriptor,
+                 int status)
+int changeJobStatus(int pid, int status)
+t_job* delJob(t_job* job)
+t_job* getJob(int searchValue, int searchParameter)
+void printJobs()
+void welcomeScreen()
+void shellPrompt()
